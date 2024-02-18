@@ -3,3 +3,5 @@ coverage
 test
 layout_src
 .env
+.DS_Store
+!laout_src/moonlander_samlander_mk-2_source
